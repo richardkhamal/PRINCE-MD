@@ -5,7 +5,8 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/richardkhamal ">.<img title="Author" src="https://img.shields.io/badge/PRINCE-MD-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/richardkhamal ">.<img title="Author" src="https
+://img.shields.io/badge/SEAN -MD-blUE?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/theelegion?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Mayelprince?label=Followers&style=social"></a>
